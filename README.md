@@ -1,6 +1,6 @@
 
   
-# 🧠 Lung Cancer Detection using Deep Learning
+# Lung Cancer Detection using Deep Learning
 
 This project implements a Convolutional Neural Network (CNN) based deep learning model to detect **lung cancer** from chest X-ray images. The model aims to assist medical professionals in early diagnosis of lung cancer using automated image classification.
 
@@ -38,7 +38,7 @@ Alternatively, a CSV-based format can be used with file paths and labels.
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 - **Base Model**: Custom CNN / EfficientNet (based on notebook)
 - **Input Shape**: 224x224x3
